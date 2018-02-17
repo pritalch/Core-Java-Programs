@@ -25,6 +25,5 @@ public class HSBCBank implements USBank, ASUBank{
     public void homeLoan(){
     	System.out.println("ASUBAnk---HomeLoan");
     }
-    
-    
+      
 }
